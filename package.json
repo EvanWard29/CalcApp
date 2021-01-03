@@ -1,0 +1,23 @@
+{
+"name": "calcapp",
+"version": "1.0.0",
+"description": "",
+"main": "server.js",
+"directories": {
+"test": "test"
+},
+"scripts": {
+"test": "mocha -ui tdd test/",
+"start": "node server.js"
+},
+"repository": {
+"type": "git",
+"url": "git+https://github.com/djw213/CalcApp.git"
+},
+"author": "David Walker",
+"license": "ISC",
+"bugs": {
+"url": "https://github.com/djw213/CalcApp/issues"
+},
+"homepage": "https://github.com/djw213/CalcApp#readme"
+}
