@@ -12,12 +12,12 @@
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/djw213/CalcApp.git"
+"url": "git+https://github.com/EvanWard29/CalcApp.git"
 },
-"author": "David Walker",
+"author": "Evan Ward",
 "license": "ISC",
 "bugs": {
-"url": "https://github.com/djw213/CalcApp/issues"
+"url": "https://github.com/EvanWard29/CalcApp/issues"
 },
-"homepage": "https://github.com/djw213/CalcApp#readme"
+"homepage": "https://github.com/EvanWard29/CalcApp#readme"
 }
